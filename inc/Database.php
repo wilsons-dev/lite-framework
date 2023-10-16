@@ -3,10 +3,10 @@
 
 
 //host, username, password, database
-$dbHost = 'localhost';
-$dbUser = 'root'; 
-$dbPass = 'root';
-$dbName = 'tasgigs';
+$dbHost = 'HOSTNAME';
+$dbUser = 'DBUSER'; 
+$dbPass = 'DBPASS';
+$dbName = 'DBNAME';
 
 $connection = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
 
