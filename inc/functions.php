@@ -1,5 +1,7 @@
 <?php
 
+
+// Outputs Variable
 function dd($value) {
     echo "<pre>";
     var_dump($value);
