@@ -1,4 +1,4 @@
-# framework
+# lite-framework
 
 Welcome to the Lite-Framework.
 
