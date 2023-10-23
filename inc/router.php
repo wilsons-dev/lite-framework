@@ -1,5 +1,5 @@
 <?php 
-// $dir = "'tasgigs/'";
+// $dir = "'/'";
 
 $uri = parse_url($dir.$_SERVER['REQUEST_URI'])['path'];
 // $uri = $_SERVER['REQUEST_URI'];
